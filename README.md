@@ -6,7 +6,7 @@
 
 </div>
 
-<img alt="Kakao" src="https://img.shields.io/badge/kakao%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Kakao" src="https://img.shields.io/badge/kakao%20-%231DA1F2.svg?&style=for-the-badge&logo=Kakao&logoColor=white"/>
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 
 
