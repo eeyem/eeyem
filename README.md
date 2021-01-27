@@ -6,17 +6,16 @@
 
 </div>
 
-<img alt="Kakao" src="https://img.shields.io/badge/kakao%20-%231DA1F2.svg?&style=for-the-badge&logo=Kakao&logoColor=white"/>
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Kakao" src="https://img.shields.io/badge/kakao%20-%231DA1F2.svg?&style=for-the-badge&logo=Kakao&logoColor=white"/> <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 
 
-![followers](https://img.shields.io/github/followers/syj970?color=lightgrey&label=followers&style=social)
-
-
--🌱 I’m currently learning Statistics, Data Analysis.
 
  
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+ 
+ 
+ -🌱 I’m currently learning Statistics, Data Analysis.
+ 
  
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syj970&show_icons=true&theme=cobalt)
