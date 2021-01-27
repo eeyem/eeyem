@@ -1,7 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there, I'm YuJeong 👋
+
+[![kakao Badge](https://img.shields.io/badge/Kakao-#FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=eeyem@kakao.com)](eeyem@kakao.com)
+
 
 🌱 I’m currently learning Statistics, Data Analysis.
 
+ 
+ 
+ <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white">
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syj970&show_icons=true&theme=cobalt)
 
