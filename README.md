@@ -8,11 +8,12 @@
 
 </div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
+[![Git_Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
+[![Twitter](http://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&link=https://github.com/syj970/)](https://github.com/syj970/)
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel
 
 
-
+[![Python](http://img.shields.io/badge/-Python-blue?style=flat&logo=python&link=https://github.com/syj970/)](https://github.com/syj970/)
  
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
  
