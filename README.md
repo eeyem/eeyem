@@ -4,7 +4,7 @@
 
 ### :page_with_curl: My Pages
 [![Git_Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/ilikewatermel)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel)
 
 ### :computer: Languages and Tools
  
