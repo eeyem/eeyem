@@ -1,10 +1,8 @@
 <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+ 
 # Hi there, I'm YuJeong 😄
 
-### My Pages
+### :page_with_curl: My Pages
 [![Git_Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel)
 
@@ -39,6 +37,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyj970&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 -->
 
 
