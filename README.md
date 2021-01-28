@@ -9,8 +9,8 @@
 </div>
 
 [![Git_Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
-[![Twitter](http://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&link=https://github.com/syj970/)](https://github.com/syj970/)
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel)]
+
 
 
 [![Python](http://img.shields.io/badge/-Python-blue?style=flat&logo=python&link=https://github.com/syj970/)](https://github.com/syj970/)
