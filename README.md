@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-# Hi there, I'm YuJeong :bowtie:
+# Hi there, I'm YuJeong 😄
 
-### 
+### My Pages
 [![Git_Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/syj970/)](https://github.com/syj970/)
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel)
 
