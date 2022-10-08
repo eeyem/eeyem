@@ -4,7 +4,6 @@
 
 ### :page_with_curl: My Pages
 [![Git_Hub](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/eeyem/)](https://github.com/eeyem/) 
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filikewatermel)
 
 ### :computer: Languages and Tools
  
