@@ -7,7 +7,7 @@
 
 ### :computer: Languages and Tools
  
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img alt="Tableau" src ="https://img.shields.io/badge/Tableau%20-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL%20-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img alt="Tableau" src ="https://img.shields.io/badge/Tableau%20-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
 
  
  </div>
