@@ -14,9 +14,6 @@
  
  </div>
  
- -🌱 I’m currently learning Statistics, Data Analysis.
- 
- 
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeyem&show_icons=true&theme=cobalt)
 
