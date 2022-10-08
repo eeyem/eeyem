@@ -3,7 +3,9 @@
 # Hi there, I'm YuJeong 😄
 
 ### :page_with_curl: My Pages
-[![Git_Hub](http://img.shields.io/badge/-Git%20Hub-black?style=flat&logo=github&link=https://github.com/eeyem/)](https://github.com/eeyem/) 
+[![Git_Hub](http://img.shields.io/badge/-Git%20Hub-181717?style=flat&logo=github&link=https://github.com/eeyem/)](https://github.com/eeyem/)
+[![Git_Hub](http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://syj9700.tistory.com/)](https://syj9700.tistory.com/) 
+
 
 ### :computer: Languages and Tools
  
